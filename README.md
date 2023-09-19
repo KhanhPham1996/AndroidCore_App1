@@ -1,1 +1,0 @@
-# AndroidCore_App1
